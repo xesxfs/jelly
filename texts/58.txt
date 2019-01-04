@@ -1,0 +1,3 @@
+Are you sure you want to delete 
+--- RECORDSEPARATOR ---
+all the progress ?
